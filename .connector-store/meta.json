@@ -4,7 +4,7 @@
     "category": "Sales and Marketing",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Eloqua+Connector+for+Bulk+API",
     "description": "The Eloqua connector allows you to access the Eloqua Bulk API through WSO2 ESB. Eloqua is a marketing automation SaaS company which develops automated marketing and demand generation software and services for business-to-business marketers.",
-    "status": "Unsupported",
+    "status": "Active",
     "labels": [
         "connector"
     ],
